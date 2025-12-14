@@ -1,7 +1,7 @@
 {
     "id" : "io.github.TanmayPatil105.verse",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "verse",
     "finish-args" : [
